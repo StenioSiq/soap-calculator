@@ -1,13 +1,13 @@
 {
   "name": "soap-calculator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Este projeto consiste no consumo de um serviço SOAP utilizando Node.js.",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stênio Siqueira",
   "license": "ISC",
   "dependencies": {
     "soap": "^1.1.11"
